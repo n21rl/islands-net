@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/people/bob/"}
 ---
 
+Bob is a young halfling that serves as a cabin boy, filling in any job needed aboard the ship. He his also a surprisingly adept fighter, with his large hammer. He has become quite fond of gnomeleaf. 
 
 > [!infobox] 
 > 
@@ -10,7 +11,7 @@
 > 
 > | | |
 > | --- | --- |
-> | **Alias(es)** | None |
+> | **Alias(es)** | `=this.alias` |
 > | | | 
 > | **Race** | Halfling |
 > | **Pronouns** | he/him |
@@ -18,5 +19,5 @@
 > | **Status** | alive | 
 > | **Location** | [[Locations/Siblín Islands/Áine\|Áine]] |
 > | | | 
-> | **Factions** | [[Factions/The Crew.md\|The Crew]] |
+> | **Factions** | `=this.factions` |
 > | **Role** | Cabin boy |

@@ -21,8 +21,9 @@
 > | **Role** | Pirate captain |
 
 ## Statblock
+
 ![Pirate Bosun - Warrior Attacker Sidekick.png](/img/user/%CE%9E%20assets/statblocks/Pirate%20Bosun%20-%20Warrior%20Attacker%20Sidekick.png)
-### Hide
+### Hidden
 
 ```statblock 
 image: null  

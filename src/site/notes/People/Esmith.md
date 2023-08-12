@@ -17,7 +17,5 @@
 > | **Status** | alive | 
 > | **Location** | `=this.location` |
 > | | | 
-> | **Factions** | `=this.factions` |
+> | **Organisations** | [[Organisations/Siblíns/Wesson family\|Wesson family]] |
 > | **Role** | Escaped convict |
-
-

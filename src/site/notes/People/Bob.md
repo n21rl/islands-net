@@ -19,5 +19,5 @@ Bob is a young halfling that serves as a cabin boy, filling in any job needed ab
 > | **Status** | alive | 
 > | **Location** | [[Locations/Siblín Islands/Áine\|Áine]] |
 > | | | 
-> | **Factions** | `=this.factions` |
+> | **Organisations** | [[Organisations/The Crew\|The Crew]] |
 > | **Role** | Cabin boy |

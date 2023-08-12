@@ -7,10 +7,7 @@ The crew are the employees of [[Adventurers/Adventurers\|the party]] aboard the 
 
 
 ## Members of the crew
-| Name                       | Role       |
-| -------------------------- | ---------- |
-| [[People/Bob\|Bob]]     | Cabin boy  |
-| [[People/Kawrl\|Kawrl]] | Lookout    |
-| [[People/Muni\|Muni]]   | First mate |
+| Name | Role |
+| ---- | ---- |
 
 { .block-language-dataview}

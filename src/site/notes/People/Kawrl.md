@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/people/kawrl/"}
 ---
 
+location:: [[Locations/Siblín Islands/Áine\|Áine]]
 > [!infobox] 
 > 
 > # Kawrl
@@ -15,7 +16,7 @@
 > | **Pronouns** | they/them |
 > | | | 
 > | **Status** | alive | 
-> | **Location** | `=this.location` |
+> | **Location** | [[Locations/Siblín Islands/Áine\|Áine]] |
 > | | | 
 > | **Organisations** | [[Organisations/The Crew\|The Crew]] |
 > | **Role** | Lookout |

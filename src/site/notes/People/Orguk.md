@@ -28,7 +28,7 @@ The *Arrow* was never heard from again. Devastated by the loss of both the ship 
 
 ![Pirate Bosun - Warrior Attacker Sidekick.png](/img/user/%CE%9E%20assets/statblocks/Pirate%20Bosun%20-%20Warrior%20Attacker%20Sidekick.png)
 
-### Hidden
+## # Hidden
 
 ```statblock 
 image: null  

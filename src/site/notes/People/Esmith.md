@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/people/esmith/"}
 ---
 
+location:: [[Locations/Siblín Islands/Áine\|Áine]]
 > [!infobox] 
 > 
 > # Esmith
@@ -15,7 +16,7 @@
 > | **Pronouns** | she/her |
 > | | | 
 > | **Status** | alive | 
-> | **Location** | `=this.location` |
+> | **Location** | [[Locations/Siblín Islands/Áine\|Áine]] |
 > | | | 
 > | **Organisations** | [[Organisations/Siblíns/Wesson family\|Wesson family]] |
 > | **Role** | Escaped convict |

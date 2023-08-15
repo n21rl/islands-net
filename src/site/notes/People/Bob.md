@@ -4,7 +4,7 @@
 
 Bob is a young halfling that serves as a cabin boy, filling in any job needed aboard the ship. He his also a surprisingly adept fighter, with his large hammer. He has become quite fond of gnomeleaf. 
 
-> [!infobox] 
+> [!wiki] 
 > 
 > # Bob
 > ![Ξ assets/portraits/NPC portraits/Bob.jpg|275](/img/user/%CE%9E%20assets/portraits/NPC%20portraits/Bob.jpg)

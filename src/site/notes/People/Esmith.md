@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/people/esmith/"}
 ---
 
-location:: [[Locations/Siblín Islands/Áine\|Áine]]
 > [!infobox] 
 > 
 > # Esmith
@@ -10,7 +9,7 @@ location:: [[Locations/Siblín Islands/Áine\|Áine]]
 > 
 > | | |
 > | --- | --- |
-> | **Alias(es)** | `=this.alias` |
+> | **Alias(es)** | `=this.aliases` |
 > | | | 
 > | **Race** | Human |
 > | **Pronouns** | she/her |

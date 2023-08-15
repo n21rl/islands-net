@@ -3,6 +3,7 @@
 ---
 
 Alex is a Goliath miner for the [[Organisations/Steorr/Green Salt Trading Company\|Green Salt Trading Company]] based in [[Locations/Jagged Isle/Sealtham\|Sealtham]]. During one of his shifts, he reportedly mined 14 times his quota and has been used to inspire other miners to work hard. 
+
 > [!infobox]
 > 
 > # Alex

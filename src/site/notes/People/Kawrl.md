@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/people/kawrl/"}
 ---
 
-location:: [[Locations/Siblín Islands/Áine\|Áine]]
+Kawrl is the introverted Birdfolk lookout  of [[Organisations/The Crew\|The Crew]] who dies their head feathers blue and like to spend their time in the crow's nest. They fell to the deck after getting hit by an arrow fired by [[People/Viktor\|Viktor]]'s crew when the Asteroidea first arrived to Otarky. [[People/Liv\|Liv]] nursed them back to health, but they lost the ability to fly. The are still able to fly however.
+
 > [!infobox] 
 > 
 > # Kawrl
@@ -10,7 +11,7 @@ location:: [[Locations/Siblín Islands/Áine\|Áine]]
 > 
 > | | |
 > | --- | --- |
-> | **Alias(es)** | `=this.alias` |
+> | **Alias(es)** | `=this.aliases` |
 > | | | 
 > | **Race** | Birdfolk |
 > | **Pronouns** | they/them |

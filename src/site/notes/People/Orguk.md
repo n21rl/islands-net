@@ -10,7 +10,7 @@
 > 
 > | | |
 > | --- | --- |
-> | **Alias(es)** | `=this.alias` |
+> | **Alias(es)** | `=this.aliases` |
 > | | | 
 > | **Race** | Orc |
 > | **Pronouns** | he/him |

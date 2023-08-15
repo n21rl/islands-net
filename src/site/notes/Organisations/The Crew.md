@@ -12,6 +12,5 @@ The crew are the employees of [[Adventurers/Adventurers\|the party]] aboard the 
 | [[People/Geera\|Geera]] | Rigger     |
 | [[People/Kawrl\|Kawrl]] | Lookout    |
 | [[People/Muni\|Muni]]   | First mate |
-| [[People/Bob 1\|Bob 1]] | Cabin boy  |
 
 { .block-language-dataview}

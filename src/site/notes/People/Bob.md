@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/people/bob/"}
 ---
 
-> [!infobox] 
+> [!infobox]+
 > 
 > # Bob
 > ![Ξ assets/portraits/NPC portraits/Bob.jpg|275](/img/user/%CE%9E%20assets/portraits/NPC%20portraits/Bob.jpg)

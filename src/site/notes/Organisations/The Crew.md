@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/organisations/the-crew/"}
 ---
 
-The crew are the employees of [[Adventurers/Adventurers\|the party]] aboard the Asteroidea/Star and Dove. They are currently in [[Locations/Siblín Islands/Áine\|Áine]].
+The crew are the employees of [[Adventurers/Adventurers\|the party]] aboard the Asteroidea/Star and Dove. They are currently in [[Locations/Siblín Islands/Áine.md\|Áine]].
 
 ## Members of the crew
 | Name                       | Role       |

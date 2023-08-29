@@ -15,7 +15,7 @@
 > | **Pronouns** | he/him |
 > | | | 
 > | **Status** | alive | 
-> | **Location** | [[Locations/Siblín Islands/Áine\|Áine]] |
+> | **Location** | [[Locations/Siblín Islands/Áine.md\|Áine]] |
 > | | | 
 > | **Organisations** | [[Organisations/The Crew\|The Crew]] |
 > | **Role** | Cabin boy |

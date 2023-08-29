@@ -1,15 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"Adventurers/-.md","permalink":"/adventurers//","tags":["moc"]}
+{"dg-publish":true,"dg-path":"Adventurers/-.md","permalink":"/adventurers//"}
 ---
 
-📄 [[Adventurers/_Adventurer DB\|_Adventurer DB]]
-📄 [[Adventurers/Character information questionnaire.gform|Character information questionnaire.gform]]
-📄 [[Adventurers/context.mdb|context.mdb]]
+Collectively referred to as "the party", these adventurers are the heroes of the story. They sail on the Star and Dove, previously known as the Asteroidea. 
+
+## Current 
 📄 [[Adventurers/Gurt\|Gurt]]
 📄 [[Adventurers/Kaihakan\|Kaihakan]]
-📄 [[Adventurers/Lucian\|Lucian]]
 📄 [[Adventurers/Rena\|Rena]]
-📄 [[Adventurers/Rhiroo\|Rhiroo]]
 📄 [[Adventurers/Yazim\|Yazim]]
-📄 [[Adventurers/Zak\|Zak]]
 
+## Past
+📄 [[Adventurers/Lucian\|Lucian]] 
+📄 [[Adventurers/Rhiroo\|Rhiroo]]
+📄 [[Adventurers/Zak\|Zak]]

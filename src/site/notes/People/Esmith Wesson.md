@@ -15,7 +15,7 @@
 > | **Pronouns** | she/her |
 > | | | 
 > | **Status** | alive | 
-> | **Location** | `=this.location` |
+> | **Location** | [[Locations/Siblín Islands/Áine/Áine\|Áine]] |
 > | | | 
 > | **Organisations** | [[Wesson family 1\|Wesson family 1]] |
 > | **Role** | Escaped convict |

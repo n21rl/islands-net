@@ -15,7 +15,7 @@
 > | **Pronouns** | he/him |
 > | | | 
 > | **Status** | alive | 
-> | **Location** | `=this.location` |
+> | **Location** | [[Locations/Jagged Isle/Sealtham\|Sealtham]] |
 > | | | 
 > | **Organisations** | [[Organisations/Steorr/Green Salt Trading Company\|Green Salt Trading Company]] |
 > | **Role** | Exemplary miner |

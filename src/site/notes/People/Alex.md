@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/alex/"}
+{"dg-publish":true,"permalink":"/people/alex/","tags":["npc"]}
 ---
 
 > [!infobox]+
@@ -9,13 +9,13 @@
 > 
 > | | |
 > | --- | --- |
-> | **Alias(es)** | `=this.aliases` |
+> | **Alias(es)** |  |
 > | | | 
 > | **Race** | Goliath |
 > | **Pronouns** | he/him |
 > | | | 
 > | **Status** | alive | 
-> | **Location** | [[Locations/Jagged Isle/Sealtham\|Sealtham]] |
+> | **Location** | `=this.location` |
 > | | | 
 > | **Organisations** | [[Organisations/Steorr/Green Salt Trading Company\|Green Salt Trading Company]] |
 > | **Role** | Exemplary miner |

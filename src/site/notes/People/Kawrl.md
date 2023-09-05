@@ -17,7 +17,7 @@ Kawrl is the introverted Birdfolk lookout  of [[Organisations/The Crew\|The Crew
 > | **Pronouns** | they/them |
 > | | | 
 > | **Status** | alive | 
-> | **Location** | `=this.location` |
+> | **Location** | [[Locations/Siblín Islands/Áine/Áine\|Áine]] |
 > | | | 
 > | **Organisations** | [[Organisations/The Crew\|The Crew]] |
 > | **Role** | Lookout |

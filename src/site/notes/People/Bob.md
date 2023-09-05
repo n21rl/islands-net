@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/bob/"}
+{"dg-publish":true,"permalink":"/people/bob/","tags":["npc"]}
 ---
 
 > [!infobox]+
@@ -15,7 +15,7 @@
 > | **Pronouns** | he/him |
 > | | | 
 > | **Status** | alive | 
-> | **Location** | [[Locations/Siblín Islands/Áine.md\|Áine]] |
+> | **Location** | `=this.location` |
 > | | | 
 > | **Organisations** | [[Organisations/The Crew\|The Crew]] |
 > | **Role** | Cabin boy |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/red-rum-jack/"}
+{"dg-publish":true,"permalink":"/people/red-rum-jack/","tags":["npc"]}
 ---
 
 Explosive and Gun master
@@ -16,7 +16,7 @@ Explosive and Gun master
 > | **Pronouns** | he/him |
 > | | | 
 > | **Status** | alive | 
-> | **Location** | [[Locations/Northern Scattered Isles/New Destiny/New Destiny\|New Destiny]] |
+> | **Location** | `=this.location` |
 > | | | 
 > | **Organisations** | [[Organisations/The Republic/The Bards\|The Bards]] |
 > | **Role** | Pirate |

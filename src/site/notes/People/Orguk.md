@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/orguk/"}
+{"dg-publish":true,"permalink":"/people/orguk/","tags":["npc"]}
 ---
 
 
@@ -16,7 +16,7 @@
 > | **Pronouns** | he/him |
 > | | | 
 > | **Status** | alive | 
-> | **Location** | [[Locations/Northern Scattered Isles/New Destiny/New Destiny\|New Destiny]] |
+> | **Location** | `=this.location` |
 > | | | 
 > | **Organisations** | [[Organisations/The Republic/The Republic\|The Republic]] |
 > | **Role** | Pirate captain |

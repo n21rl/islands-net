@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/locations/northern-scattered-isles/new-destiny/auction-house/"}
+{"dg-publish":true,"permalink":"/locations/northern-scattered-isles/new-destiny/auction-house/","tags":["location"]}
 ---
 
+
+
+The Auction House is a popular establishment on New Destiny where pirates can bid on rare treasures acquired through raids. Its showroom displays exotic curios, art, magic items, and mysterious artifacts from across the Islands up for sale. An eccentric goblin named Xander officiates the organized chaos of bidding wars between rowdy pirates. Under his watchful eye, they may win valuable additions to their hoard or get swindled by counterfeits if they aren't careful. Those in debt to the Republic may have their possessions sold off here if they can't pay their dues.
 ## Wares
 
 | Item Name                                                                        | Valuation | Starting Bid | Description                                                                      |

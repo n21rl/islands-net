@@ -16,7 +16,7 @@
 > | **Pronouns** | he/him |
 > | | | 
 > | **Status** | alive | 
-> | **Location** | `=this.location` |
+> | **Location** | [[Locations/Northern Scattered Isles/New Destiny/New Destiny\|New Destiny]] |
 > | | | 
 > | **Organisations** | [[Organisations/The Republic/The Republic\|The Republic]] |
 > | **Role** | Pirate captain |

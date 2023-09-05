@@ -1,1 +1,0 @@
-`=dateformat(this.date,"yyyy-MM-dd")`

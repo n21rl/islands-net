@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/locations/northern-scattered-isles/new-destiny/shops-of-the-pirate-republic/"}
+{"dg-publish":true,"permalink":"/locations/northern-scattered-isles/new-destiny/shops-of-the-pirate-republic/","tags":["location"]}
 ---
+
+
 
 Apart from taverns, here are the main places where individuals spend their hard-earned money on New Destiny. The shopkeepers can give you information on the wares they sell and provide services. Ask them if you are looking for something in particular, as only a sampling of what may be available is presented here.
 
@@ -99,7 +101,7 @@ This shop is based in a dark stone building with a sign depicting a lit fuse com
 
 ## Apothecary: The Dripping Vial
 
-The Dripping Vial is a small and dimly lit shop that sells potions, ointments, and other concoctions, as well as miscellaneous ingredients. The shelves are overflowing with a messy assortment of jars of various sizes, containing bubbling liquids, strange herbs, and mysterious powders. A door chime made out of small glass bottles notifies **Lungwort**, the shop owner when the door opens. He is a crusty elderly tortle who has been living on the island since before it was named New Destiny by Steorrian explorers.  He possesses a vast wealth of knowledge about his craft and has a rivalry with Valeria of Sticks and Stones, with whom he competes for ingredients that she prefers to use as spell components. He is rumored to also dabble in poison-making. 
+The Dripping Vial is a small and dimly lit shop that sells potions, ointments, and other concoctions, as well as miscellaneous ingredients. The shelves are overflowing with a messy assortment of jars of various sizes, containing bubbling liquids, strange herbs, and mysterious powders. A door chime made out of small glass bottles notifies **Lungwort**, the shop owner when the door opens. He is a crusty elderly Tortle who has been living on the island since before it was named New Destiny by Steorrian explorers.  He possesses a vast wealth of knowledge about his craft and has a rivalry with Valeria of Sticks and Stones, with whom he competes for ingredients that she prefers to use as spell components. He is rumoured to also dabble in poison-making. 
 
 ### Wares
 
@@ -126,7 +128,7 @@ The Dripping Vial is a small and dimly lit shop that sells potions, ointments, a
 ## Spellcasting: Sticks and Stones 
 
 Above the door of this quaint little shop hangs a wooden sign depicting a wand and a gem. Inside, the air is heavy with the scent of incense. Shelves line the walls from floor to ceiling, filled with ordinary and exotic spell components. Glass displays contain various stones, more or less precious. The shop is warmly lit by a crystal chandelier, as well as the faint glow emanating from various enchanted wands and staves placed in racks throughout the shop. 
-Everything is neatly organised and labelled by the shopkeeper, an older elf named **Valeria**. She has long  coppery white hair that she keeps tied back in a braid, and her piercing blue eyes seem to sparkle with inner magic. Valeria is patient and friendly, always willing to help customers find the perfect spell components for their needs. She has a rivalry with Lungwort of the Dripping Vial, with whom he competes for ingredients that he prefers to use in his potions. 
+Everything is neatly organised and labelled by the shopkeeper, an older elf named **Valeria**. She has a rivalry with Lungwort of the Dripping Vial, with whom she competes for ingredients that he prefers to use in his potions. 
 
 ### Wares
 

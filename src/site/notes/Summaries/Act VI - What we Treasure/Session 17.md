@@ -20,7 +20,7 @@
 > | --- | --- |
 > | [[Summaries/Act VI - What we Treasure/Session 16\|Previous Session]] | [[Summaries/Act VII - Visiting the Siblíns/Session 18\|Next Session]] |
 
-While the crate was in its reduced state, the [[Adventurers/Adventurers\|party]] managed to break it open and discovered a vast amounts of magic items inside. With these treasures, [[People/Orguk\|Orguk]] would have enough to buy a ship, and the party made a substantial profit of roughly 5000 gp. Each member of the party kept a magic item and a trinket of their choice, while the remaining items were prepared for sale at the auction house. The crate also contained an entry document to the Siblíns prepared by [[People/Hugh Bowes\|Hugh Bowes]].
+While the crate was in its reduced state, the party managed to break it open and discovered a vast amounts of magic items inside. With these treasures, [[People/Orguk\|Orguk]] would have enough to buy a ship, and the party made a substantial profit of roughly 5000 gp. Each member of the party kept a magic item and a trinket of their choice, while the remaining items were prepared for sale at the auction house. The crate also contained an entry document to the Siblíns prepared by [[People/Hugh Bowes\|Hugh Bowes]].
 
 As they were managing the loot, the adventurers heard some commotion on the deck. The man they had met on the floating wreck of the Arrow had made his way to the ship and was attacking members of the crew. With a gaping mouth and unmoving lips, he screamed in a high-pitch voice that they had destroyed his ship so he would take theirs. With deadly efficiency, the adventurers killed him before he could land a single attack. Examining his body, they noticed he was missing his tongue and found a mysterious note.
 

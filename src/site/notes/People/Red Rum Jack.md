@@ -16,7 +16,7 @@ Explosive and Gun master
 > | **Pronouns** | he/him |
 > | | | 
 > | **Status** | alive | 
-> | **Location** | `=this.location` |
+> | **Location** | [[Locations/Northern Scattered Isles/New Destiny/New Destiny\|New Destiny]] |
 > | | | 
 > | **Organisations** | [[Organisations/The Republic/The Bards\|The Bards]] |
 > | **Role** | Pirate |

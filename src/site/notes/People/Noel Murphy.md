@@ -17,7 +17,7 @@ Noel Murphy was a crew member of [[Organisations/The Republic/The Bards\|The Bar
 > | **Pronouns** | he/him |
 > | | | 
 > | **Status** | dead | 
-> | **Location** | `=this.location` |
+> | **Location** | [[Locations/Northern Scattered Isles/New Destiny/New Destiny\|New Destiny]] |
 > | | | 
 > | **Organisations** | [[Organisations/The Republic/The Bards\|The Bards]] |
 > | **Role** | Unarmed fighter |

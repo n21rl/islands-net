@@ -9,7 +9,7 @@
 > 
 > | | |
 > | --- | --- |
-> | **Alias(es)** | `=this.alias` |
+> | **Alias(es)** | `=this.aliases` |
 > | | | 
 > | **Race** | Halfling |
 > | **Pronouns** | he/him |

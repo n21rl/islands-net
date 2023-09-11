@@ -17,5 +17,5 @@
 > | **Status** | alive | 
 > | **Location** | [[Locations/Siblín Islands/Áine/Áine\|Áine]] |
 > | | | 
-> | **Organisations** | [[Wesson family 1\|Wesson family 1]] |
+> | **Organisations** | [[Organisations/Siblín Guilds/Wesson family\|Wesson family]] |
 > | **Role** | Escaped convict |

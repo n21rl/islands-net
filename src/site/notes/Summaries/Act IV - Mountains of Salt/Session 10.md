@@ -10,7 +10,7 @@
 > | **Date** | 2023-03-15 |
 > | **Place** | The Black Sheep |
 > | | | 
-> | **Players** | Carolinn,Colm,Gigi,Matthew,Nathan |
+> | **Players** | Carolinn, Colm, Gigi, Matthew, Nathan |
 > | **Notetaker** | Ant |
 > | | | 
 > | **Pillars** | combat,social,exploration | 

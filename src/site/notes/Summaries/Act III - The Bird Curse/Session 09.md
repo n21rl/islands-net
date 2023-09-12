@@ -10,7 +10,7 @@
 > | **Date** | 2023-03-01 |
 > | **Place** | The Black Sheep |
 > | | | 
-> | **Players** | Colm,Gigi,Nathan,Carolinn |
+> | **Players** | Colm, Gigi, Nathan, Carolinn |
 > | **Notetaker** | Gigi |
 > | | | 
 > | **Pillars** | combat,exploration,social | 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Adventurers/-.md","permalink":"/adventurers//","tags":["organisation"]}
+{"dg-publish":true,"dg-path":"Adventurers/-.md","permalink":"/adventurers//","pinned":true,"tags":["organisation"]}
 ---
 
 Collectively referred to as "the party", these adventurers are the heroes of the story. They sail on the [[Ships/Star and Dove\|Star and Dove]].

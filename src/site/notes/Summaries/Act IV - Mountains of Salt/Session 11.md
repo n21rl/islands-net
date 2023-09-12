@@ -10,7 +10,7 @@
 > | **Date** | 2023-03-30 |
 > | **Place** | Gigi's |
 > | | | 
-> | **Players** | Carolinn,Colm,Gigi,Matthew |
+> | **Players** | Carolinn, Colm, Gigi, Matthew |
 > | **Notetaker** | Colm |
 > | | | 
 > | **Pillars** | social,exploration | 

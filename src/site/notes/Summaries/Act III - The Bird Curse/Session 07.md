@@ -10,7 +10,7 @@
 > | **Date** | 2023-01-20 |
 > | **Place** | Gigi's |
 > | | | 
-> | **Players** | Colm,Gigi,Nathan |
+> | **Players** | Colm, Gigi, Nathan |
 > | **Notetaker** | Ant |
 > | | | 
 > | **Pillars** | combat,exploration,social | 

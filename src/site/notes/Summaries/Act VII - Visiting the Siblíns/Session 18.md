@@ -10,7 +10,7 @@
 > | **Date** | 2023-06-16 |
 > | **Place** | Gigi's |
 > | | | 
-> | **Players** | Carolinn,Colm,Gigi,Nathan |
+> | **Players** | Carolinn, Colm, Gigi, Nathan |
 > | **Notetaker** | Ant |
 > | | | 
 > | **Pillars** | exploration,social | 
@@ -29,6 +29,3 @@ With Sable vouching for them, the adventurers were allowed to enter [[Locations/
 The next evening, the party started a fire in the kitchen and use every mean necessary to make it spread and cause chaos. Adding to the confusion, Gurt had Godfrey run around to distract the guards. The fire grew so much that alarms started blaring and the guards had to evacuate most prisoners to the yard. The party blended in with the crowd and summoned a roc, with the magic token from the sea hag. The gargantuan bird grabbed the party and the two convicts in its claws and took off.
 
 However, the warden rushed out and used a powerful wand to immobilize the roc. Her attempt was thwarted by Rena who managed to counter the spell with her own magic, allowing everyone to fly away. The party instructed the roc to drop them off at a safe location and then fly away in the opposite direction. Back in Áine, [[Adventurers/Yazim\|Yazim]] tracked down [[People/Lou Beluga\|Lou Beluga]], an old friend from his smuggling days, and asked him to hide Jack and Esmith. 
-
-
-

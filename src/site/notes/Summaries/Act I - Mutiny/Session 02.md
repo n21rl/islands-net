@@ -10,7 +10,7 @@
 > | **Date** | 2022-09-29 |
 > | **Place** | The Black Sheep |
 > | | | 
-> | **Players** | Angelika,Colm,Florin,Gigi,Nathan |
+> | **Players** | Angelika, Colm, Florin, Gigi, Nathan |
 > | **Notetaker** | Ant |
 > | | | 
 > | **Pillars** | combat,social,exploration | 

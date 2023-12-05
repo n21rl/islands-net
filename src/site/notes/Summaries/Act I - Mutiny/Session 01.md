@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"summaries/session-01","permalink":"/summaries/session-01/","tags":["session"]}
+{"dg-publish":true,"permalink":"/summaries/act-i-mutiny/session-01/","tags":["session"]}
 ---
 
 
@@ -20,7 +20,6 @@
 > | | |
 > | --- | --- |
 > | No Previous Session | [[Summaries/Act I - Mutiny/Session 02\|Next Session]] |
-
 
 The party met on the main harbour of [[Locations/Islands/Grand Isle/Star Point\|Star Point]], a major Steorrian city on the [[Locations/Islands/Grand Isle/Grand Isle\|Grand Isle]]. Along with a young halfling named [[People/Bob\|Bob]], they were hired to join the crew of Captain [[People/Orguk\|Orguk]]. The orc worked for the half-elf merchant [[People/Hugh Bowes\|Hugh Bowes]], who had been travelling with a [[Organisations/Steorr/Steorrian army\|Steorrian army]] escort, including the elven sergeant [[People/Elysia\|Elysia]]. The adventurers met [[People/Cook\|Cook]], the Goliath cook and [[People/Kawrl\|Kawrl]], the birdfolk lookout.
 

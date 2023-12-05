@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Summaries/ I - Mutiny/Session 03.md","permalink":"/summaries/i-mutiny/session-03/","tags":["session"]}
+{"dg-publish":true,"dg-path":"Summaries/ I - Mutiny/Session 03.md","dg-permalink":"summaries/03","permalink":"/summaries/03/","tags":["session"]}
 ---
 
 > [!infobox]+

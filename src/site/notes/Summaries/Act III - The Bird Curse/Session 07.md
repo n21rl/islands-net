@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Summaries/ III - The Bird Curse/Session 07.md","permalink":"/summaries/iii-the-bird-curse/session-07/","tags":["session"]}
+{"dg-publish":true,"dg-path":"Summaries/ III - The Bird Curse/Session 07.md","dg-permalink":"summaries/07","permalink":"/summaries/07/","tags":["session"]}
 ---
 
 > [!infobox]+

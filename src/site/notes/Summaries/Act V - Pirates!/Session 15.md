@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"summaries/session-15","permalink":"/summaries/session-15/","tags":["session"]}
+{"dg-publish":true,"dg-path":"Summaries V - Pirates!/Session 15.md","permalink":"/summaries-v-pirates/session-15/","tags":["session"]}
 ---
 
 > [!infobox]+

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/summaries/act-ii-mystery-in-the-fog/session-05/","tags":["session"]}
+{"dg-publish":true,"dg-permalink":"\"summaries/session-05\"","permalink":"/\"summaries/session-05\"/","tags":["session"]}
 ---
 
 > [!infobox]+

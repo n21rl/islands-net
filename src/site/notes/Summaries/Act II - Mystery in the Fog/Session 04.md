@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Summaries II - Mystery in the Fog/Session 04.md","permalink":"/summaries-ii-mystery-in-the-fog/session-04/","tags":["session"]}
+{"dg-publish":true,"dg-path":"Summaries/ II - Mystery in the Fog/Session 04.md","permalink":"/summaries/ii-mystery-in-the-fog/session-04/","tags":["session"]}
 ---
 
 > [!infobox]+

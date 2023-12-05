@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dm/website/welcome-to-the-islands/","hide":true,"pinned":true,"tags":["gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/dm/website/welcome-to-the-islands/","hide":true,"pinned":true,"tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 Welcome to the info website for our D&D campaign! 🏝 

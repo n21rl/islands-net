@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Summaries/ IV - Mountains of Salt/Session 12.md","permalink":"/summaries/iv-mountains-of-salt/session-12/","tags":["session"]}
+{"dg-publish":true,"dg-path":"Summaries/ IV - Mountains of Salt/Session 12.md","dg-permalink":"summaries/12","permalink":"/summaries/12/","tags":["session"]}
 ---
 
 > [!infobox]+

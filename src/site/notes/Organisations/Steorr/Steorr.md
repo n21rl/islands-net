@@ -40,8 +40,8 @@ After years of war, Steorr still mistrusts the elves of Selvea due to their magi
 ## Organisations within Steorr
 | Name                                                                                     |
 | ---------------------------------------------------------------------------------------- |
-| [[Organisations/Steorr/Green Salt Trading Company\|Green Salt Trading Company]]       |
 | [[Organisations/Steorr/Steorrian army\|Steorrian army]]                               |
+| [[Organisations/Steorr/Green Salt Trading Company\|Green Salt Trading Company]]       |
 | [[Organisations/Steorr/Church of the Unwavering Star\|Church of the Unwavering Star]] |
 
 { .block-language-dataview}
@@ -52,10 +52,10 @@ After years of war, Steorr still mistrusts the elves of Selvea due to their magi
 | [[People/Alex\|Alex]]                               | <ul><li>Exemplary miner</li></ul>                         |
 | [[People/Brother Uriel\|Brother Uriel]]             | <ul><li>Missionary</li></ul>                              |
 | [[People/Elysia\|Elysia]]                           | <ul><li>Sergeant</li></ul>                                |
-| [[People/Hugh Bowes\|Hugh Bowes]]                   | <ul><li>Merchant</li></ul>                                |
+| [[People/Hugh Bowes\|Hugh Bowes]]                   | Merchant                                                  |
 | [[People/Lady Mayor Theis\|Lady Mayor Theis]]       | <ul><li>Mayor</li></ul>                                   |
-| [[People/Lord Mayor Ebler\|Lord Mayor Ebler]]       | <ul><li>Mayor</li></ul>                                   |
 | [[People/Lord Mayor Brummbär\|Lord Mayor Brummbär]] | <ul><li>Mayor</li><li>Mining operations manager</li></ul> |
+| [[People/Lord Mayor Ebler\|Lord Mayor Ebler]]       | <ul><li>Mayor</li></ul>                                   |
 
 { .block-language-dataview}
 

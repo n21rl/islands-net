@@ -14,7 +14,7 @@
 > | **Notetaker** | Ant |
 > | | | 
 > | **Pillars** | combat,social,exploration | 
-> | **TLDR** | Got Shipwrecked, got threatened by Hugh Bowes, explored old fort, found crew and discovered magic items |
+> | **TLDR** | got Shipwrecked, got threatened by Hugh Bowes, explored old fort, found crew and discovered magic items |
 > 
 > | | |
 > | --- | --- |

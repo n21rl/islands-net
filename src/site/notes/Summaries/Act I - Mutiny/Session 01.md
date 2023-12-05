@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/summaries/act-i-mutiny/session-01/","tags":["session"]}
+{"dg-publish":true,"dg-permalink":"\"summaries/session-01\"","permalink":"/\"summaries/session-01\"/","tags":["session"]}
 ---
+
 
 > [!infobox]+
 > # Session 01

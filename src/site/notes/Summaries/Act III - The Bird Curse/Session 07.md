@@ -14,15 +14,15 @@
 > | **Notetaker** | Ant |
 > | | | 
 > | **Pillars** | combat,exploration,social | 
-> | **TLDR** | sailed to Otarkyn, met Sable Martes, learned about bird curse affecting the town, got woken up after a strange murder |
+> | **TLDR** | sailed to Otarkyn, met Sable Martes, learned about bird curse |
 > 
 > | | |
 > | --- | --- |
 > | [[Summaries/Act II - Mystery in the Fog/Session 06\|Previous Session]] | [[Summaries/Act III - The Bird Curse/Session 08\|Next Session]] |
 
-As thanks for crippling the smugglers' operation, the [[Adventurers/Adventurers\|party]] received a flag of [[Locations/Northern Scattered Isles/Otarky/Otarky\|Otarky]] and mushroom cloth to sell north of the island. They transported [[People/Liv\|Liv]], who had been asked for help by a merchant from the northern town. As they approached the town, they noticed a massive shape sink under water in the distance. 
+As thanks for crippling the smugglers' operation, the [[Organisations/Adventurers\|party]] received a flag of [[Locations/Islands/Northern Scattered Isles/Otarky/Otarky\|Otarky]] and mushroom cloth to sell north of the island. They transported [[People/Liv\|Liv]], who had been asked for help by a merchant from the northern town. As they approached the town, they noticed a massive shape sink under water in the distance. 
 
-On the harbour, an argument was ongoing between [[People/Sable Martes\|Sable Martes]], a merchant woman from the Siblín Guilds and the harbourmaster. Sable's sails had been torn to shreds by a flock of birds after her ship nearly got stuck in a mass of sargassum. The man was refusing to sell cloth to Sable, as trade had been poor in the area and the town inhabitants favoured the needs of their own ships. The party offered to sell their textile to Sable for a premium, which she accepted. Sable tried to learn of any trading opportunity from the adventurers, promising them shares in her new ventures, but they kept quiet. [[Adventurers/Yazim\|Brenlinn]] deftly stole a ring from Sable's finger. 
+On the harbour, an argument was ongoing between [[People/Sable Martes\|Sable Martes]], a merchant woman from the Siblín Guilds and the harbourmaster. Sable's sails had been torn to shreds by a flock of birds after her ship nearly got stuck in a mass of sargassum. The man was refusing to sell cloth to Sable, as trade had been poor in the area and the town inhabitants favoured the needs of their own ships. The party offered to sell their textile to Sable for a premium, which she accepted. Sable tried to learn of any trading opportunity from the adventurers, promising them shares in her new ventures, but they kept quiet. [[People/Adventurers/Yazim\|Brenlinn]] deftly stole a ring from Sable's finger. 
 
 Suddenly, a young boy was attacked by swarms of gulls on the pier. The party protected him and learned that he was named [[People/Ham\|Ham]]. He told them that his friends and him had found a large egg in the mushroom swamps after it fell out of the sky. Since, birds had been acting violently around town, going after children in particular. The adventurers went around town to look for [[People/Fipp\|Fipp]], Ham's friend who was currently in possession of the egg. They were unable to find him. Liv revealed that she could communicate with animals, and that a lone starling had told her a mysterious phrase: "Fetid blubber, seaweed, close the eye, set us free". 
 

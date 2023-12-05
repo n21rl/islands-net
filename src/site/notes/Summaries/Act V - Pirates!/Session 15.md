@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/summaries/act-v-pirates/session-15/","tags":["session"]}
+{"dg-publish":true,"dg-permalink":"summaries/session-15","permalink":"/summaries/session-15/","tags":["session"]}
 ---
 
 > [!infobox]+

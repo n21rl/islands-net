@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"\"summaries/session-04\"","permalink":"/\"summaries/session-04\"/","tags":["session"]}
+{"dg-publish":true,"dg-permalink":"summaries/session-04","permalink":"/summaries/session-04/","tags":["session"]}
 ---
 
 > [!infobox]+

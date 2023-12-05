@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/summaries/act-vii-visiting-the-siblins/session-18/","tags":["session"]}
+{"dg-publish":true,"dg-permalink":"summaries/session-18","permalink":"/summaries/session-18/","tags":["session"]}
 ---
 
 > [!infobox]+

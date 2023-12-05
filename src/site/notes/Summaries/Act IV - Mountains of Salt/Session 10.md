@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/summaries/act-iv-mountains-of-salt/session-10/","tags":["session"]}
+{"dg-publish":true,"dg-permalink":"summaries/session-10","permalink":"/summaries/session-10/","tags":["session"]}
 ---
 
 > [!infobox]+

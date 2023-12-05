@@ -14,7 +14,7 @@
 > | **Notetaker** | Ant |
 > | | | 
 > | **Pillars** | social,exploration | 
-> | **TLDR** | Managed the loot, started tarnishing Grey's reputation, got some tattoos, sailed to the Siblíns |
+> | **TLDR** | managed the loot, tarnished Grey's reputation, got some tattoos, sailed to the Siblíns |
 > 
 > | | |
 > | --- | --- |
@@ -24,7 +24,7 @@ While the crate was in its reduced state, the party managed to break it open and
 
 As they were managing the loot, the adventurers heard some commotion on the deck. The man they had met on the floating wreck of the Arrow had made his way to the ship and was attacking members of the crew. With a gaping mouth and unmoving lips, he screamed in a high-pitch voice that they had destroyed his ship so he would take theirs. With deadly efficiency, the adventurers killed him before he could land a single attack. Examining his body, they noticed he was missing his tongue and found a mysterious note.
 
-The Star and Dove made its way back to [[Organisations/The Republic/The Republic\|the Republic]], where [[Adventurers/Gurt\|Gurt]] and [[Adventurers/Yazim\|Yazim]] sought out [[People/Inkbeard\|Inkbeard]] to acquire magical tattoes. [[Adventurers/Kaihakan\|Kaihakan]] followed as he was interested in the process. However, he was kicked out after critizing the tackiness of the designs. With the aid of invisibility, he snuck back in to observe. However, [[People/Inkbeard\|Inkbeard]] heard him and angrily refused to finish Yazim's tatttoo before Kai left and and extra charge was paid.
+The Star and Dove made its way back to [[Organisations/The Republic/The Republic\|the Republic]], where [[People/Adventurers/Gurt\|Gurt]] and [[People/Adventurers/Yazim\|Yazim]] sought out [[People/Inkbeard\|Inkbeard]] to acquire magical tattoes. [[People/Adventurers/Kaihakan\|Kaihakan]] followed as he was interested in the process. However, he was kicked out after critizing the tackiness of the designs. With the aid of invisibility, he snuck back in to observe. However, [[People/Inkbeard\|Inkbeard]] heard him and angrily refused to finish Yazim's tatttoo before Kai left and and extra charge was paid.
 
 In New Destiny, the talk of the town was split about inviting [[People/Elisabeth Grey\|Elisabeth Grey]] to join the Republic. [[People/Captain Morgan\|Captain Morgan]] and his followers saw her as a potentially powerful pirate ally while [[Organisations/The Republic/The Bards\|The Bards]] and others feared she might corrupt the young Republic, due to her indiscriminate attacks on civilians of the Northern Scattered Isles. The party also thought she would be a bad influence, but differed on what approach to take. [[People/Wayne MacGoshan\|Wayne]] wanted to seek her out and kill her, while Gurt preferred to avoid direct confrontation. The party decided to tarnish Grey's reputation in the Republic, spreading rumours about her, starting with the watering hole frequented by [[Organisations/The Republic/The Sea Dogs\|The Sea Dogs]].
 

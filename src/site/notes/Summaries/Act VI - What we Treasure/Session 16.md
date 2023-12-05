@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Summaries/ VI - What we Treasure/Session 16.md","permalink":"/summaries/vi-what-we-treasure/session-16/","tags":["session"]}
+{"dg-publish":true,"dg-path":"Summaries/ VI - What we Treasure/Session 16.md","dg-permalink":"summaries/16","permalink":"/summaries/16/","tags":["session"]}
 ---
 
 > [!infobox]+

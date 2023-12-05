@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"summaries/session-18","permalink":"/summaries/session-18/","tags":["session"]}
+{"dg-publish":true,"dg-path":"Summaries VII - Visiting the Siblíns/Session 18.md","permalink":"/summaries-vii-visiting-the-siblins/session-18/","tags":["session"]}
 ---
 
 > [!infobox]+

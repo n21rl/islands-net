@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/summaries/act-iii-the-bird-curse/session-09/","tags":["session"]}
+{"dg-publish":true,"dg-permalink":"summaries/session-09","permalink":"/summaries/session-09/","tags":["session"]}
 ---
 
 > [!infobox]+

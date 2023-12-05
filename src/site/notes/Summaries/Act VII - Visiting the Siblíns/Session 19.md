@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/summaries/act-vii-visiting-the-siblins/session-19/"}
+{"dg-publish":true,"permalink":"/summaries/act-vii-visiting-the-siblins/session-19/","tags":["session"]}
 ---
 
 > [!infobox]+
@@ -14,11 +14,11 @@
 > | **Notetaker** | Ant |
 > | | | 
 > | **Pillars** | exploration,combat,social | 
-> | **TLDR** | `=this.tldr` |
+> | **TLDR** | Kaihakan undermined whaling, Rena investigated library, Yazim uncovered Wesson secrets, Gurt explored job opportunities |
 > 
 > | | |
 > | --- | --- |
-> | [[Summaries/Act VII - Visiting the Siblíns/Session 19\|Previous Session]] | [[Session 20\|Next Session]] |
+> | [[Summaries/Act VII - Visiting the Siblíns/Session 18\|Previous Session]] | [[Summaries/Act VII - Visiting the Siblíns/Session 20\|Next Session]] |
 
 After their daring prison break, the adventurers noticed that guards were on high alert, carrying frequent stops and occasional searches. They decided to stay a week in Áine to follow the terms of their authorisation and avoid raising suspicion. Lou Beluga was hiding Calico Jack and Esmith in a secret cellar under his inn, the White Straw Hat. Using the inn as a base, the adventurers went to explore the city on their own. 
 
@@ -42,7 +42,7 @@ After summoning her familiar Merlin in the shape of a spider, she sent him to in
 
 Taking matters into her own hands, Rena magically morphed into a copy of the librarian automaton. In disguise, she made her way past the guards and down to Disposal. Among the piles of discarded items, she salvaged a old spell book and a damaged scroll. In a deeper cave-like area, she noticed crumbled sections of walls that seem to lead to other underground tunnels but could not get past them. 
 
-Perhaps more intriguingly, she encountered a confused automaton head with shiny blue eyes that addressed her as "User" and offered to answser her queries. Suspicious and running out of time before the library closing time, she kept the interaction brief. She hurried back to the surface and exited Eólas after returning to her usual appearance. 
+Perhaps more intriguingly, she encountered a confused automaton head with shiny blue eyes that addressed her as "User" and offered to answer her queries. Suspicious and running out of time before the library closing time, she kept the interaction brief. She hurried back to the surface and exited Eólas after returning to her usual appearance. 
 
 ## Yazim
 Yazim had a tough conversation with Esmith, during which she blamed him for abandoning his crew, his family, and her. She told Yazim that the girls of their crew were all executed while she was sent to prison. Yazim apologised, explaining he thought his family would be safer if he left and that he needed time to figure out his best plan of action. 
@@ -57,5 +57,9 @@ Later in the evening, Yazim went to the Cove Inn to meet with Knapper. In case b
 
 Yazim made his way to the office and spent some time looking for the ledger in the dark, to no avail. After covering the window with thick clothes he had found in a chest, he was able to use a candle without any light being visible from the outside. The candlelight allowed him to find a hidden compartment in Erin's desk. Inside, he found the ledger and started leafing through it. Realising that whine stains on the paper that did not appear random but in fact marking specific entries, he copied the relevant sections of the ledger, before putting the room back in order. Short on time, he ran back to the Cove Inn, where he was able to hand the key to Knapper discreetly.
 
+## Gurt 
+Gurt explored Áine on his own, seeking to join a craft guild for additional income. After struggling to locate the Clockwork Guild House, ultimately connected with the small Woodcarvers Guild with which he left an enchanted carved eagle as an application.
 
- 
+Master Carver Madera interviewed Gurt, intrigued by his magical craftwork. Though impressed, she explained that joining a guild in the Siblíns was a commitment akin to becoming a citizen. She also implied that authorities had interest in bird constructs related to a recent crime and said her guild would offer protection, but Gurt feigned ignorance. She cautioned him about aligning with certain groups who would be interested in his abilities.
+
+A few days before the party was to leave Áine, Gurt received a mysterious invitation to meet at the Túram clock tower, joining an exclusive tour led by the half-elf Seraphina. While one of the visitors, a young foreign elf named Tolmiri, was chatting to him, he began experiencing piercing headaches from an unknown source. Creating a smoke effect in response, he caused an evacuation and was intercepted by one of the mechanics from the Clockwork Guild, the kobold Nixt. This was his secret contact. Gurt guardedly followed Nixt to a hidden room of the Undercity. There, the kobold asked him to disassemble a magic pair of boots. Nixt used a device to extract the magic energy from the boots, and condensed into a strange purple liquid, before demonstrating its explosive potential. He promised the artificer vast funds and arcane revelations, trying to secure his membership. Though intrigued, Gurt asked for time before committing and convinced Nixt to give him until the next day.

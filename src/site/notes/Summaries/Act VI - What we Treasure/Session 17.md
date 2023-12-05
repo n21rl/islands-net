@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/summaries/act-vi-what-we-treasure/session-17/","tags":["session"]}
+{"dg-publish":true,"dg-permalink":"summaries/session-17","permalink":"/summaries/session-17/","tags":["session"]}
 ---
 
 > [!infobox]+
